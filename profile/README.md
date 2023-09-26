@@ -2,16 +2,20 @@
 
 ## 🚀 About Us
 
-"Data is the pollution problem of the information age, and protecting privacy is the environmental challenge."
+"Where Curiosity Meets the Cosmos and Innovation Soars."
 
-We stand at the forefront of a STEM collective, pioneering a revolution in the realms of cyber security, development, and digital infrastructure, all for the greater community. Our belief in the power of collaboration and the strength of a united community drives us towards a safer and more secure digital age.
+At FoxLabs, we are charting new frontiers in citizen-led STEM, boldly venturing into the realms of cybersecurity, space exploration, pushing automata, neural networks and quantum computing. Our mission is to explore, innovate, and secure the digital future for the betterment of humanity.
 
-#### 💻 Empowering Innovation
-With open-source principles at our core, we unleash the potential of collective brilliance to build cutting-edge solutions. From cybersecurity advancements to groundbreaking developments such as Nomad OS or SPARTAN.
+#### 🌌 Exploring the Unknown
 
-#### 🛡️ Protecting the Future
-As technology races forward, we stand as guardians of privacy and advocates of a secure digital landscape. Our commitment to preserving user trust and data integrity fuels our passion for building a better, safer world. That's why we build both offensive and defensive capable tools.
+With a passion for cyber security, space sciences and orbital technologies, we embark on exciting OSS (*Open Source Software*) projects. Our projects range from space weather monitoring to satellite communication simulations!
 
-## 📱 Support
+#### 🛡️ Cybersecurity Guardians
 
-If you need to reach out for support, you can join our Discord [*here*](https://discord.gg/H4CjUqHm3Q) and open a ticket.
+In the digital age, security is paramount. We're on a mission to safeguard the digital landscape, creating tools and solutions for both offence and defence in this regard projects can shift from encryption suites to automata programs for seamless maintenance and CI (*Continuous Integration*) of security updates which blends well with ventures made into OSS AI linguistic models for both chat-bots, confidence analysis and, well, a wide array of situations.
+
+## 📱 Connect with Us
+
+If you share our passion for technology, space, AI, cybersecurity, citizen-led initiatives and STEM come join our thriving community on Discord. Feel free to reach out for support, collaboration, or just to chat about the wonders of the universe in which we share!
+
+👉 [Join Our Community on Discord](https://discord.foxlabs.cloud) 👈
